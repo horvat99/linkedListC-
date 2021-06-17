@@ -1,0 +1,1 @@
+Ez egy olyan text fajl ami megszamolja hany szo van a listaba es ez a program lehetove teszi a torlest vagy az uj fajlba irast

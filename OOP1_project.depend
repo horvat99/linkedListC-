@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1559561436 source:c:\users\krisz\desktop\oop1_project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1559674964 source:c:\users\tmshr\onedrive\asztali gép\oop1_project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
+1559851183 source:c:\users\tmshr\onedrive\asztali gép\hivatalos\fontos\oop1_project\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
